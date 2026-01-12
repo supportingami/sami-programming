@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/supportingami/sami-programming#readme",
   "devDependencies": {
-    "js-yaml": "^3.14.1"
+    "js-yaml": "^4.1.1"
   },
   "packageManager": "yarn@4.0.2"
 }
